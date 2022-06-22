@@ -1,5 +1,5 @@
 # Work Day Scheduler Starter Code
-As an employee with a busy schedule, I want to add important events to a daily planner so that i can manage my time effectively. 
+    As an employee with a busy schedule, I want to add important events to a daily planner so that i can manage my time effectively. 
 
 ## Acceptance Criteria
     This is a daily planner with the ability to create a schedule.
@@ -11,3 +11,4 @@ As an employee with a busy schedule, I want to add important events to a daily p
     When you refresh the page, the saved event stays on the schedule. 
 
 ## Mock Up
+![App Screenshot](./assets/images/homework-demo.gif)
